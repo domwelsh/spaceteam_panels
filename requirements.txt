@@ -1,0 +1,8 @@
+# Chromatek RGB Switch Dependencies
+# Install with: pip install -r requirements.txt
+
+# WS2812B/NeoPixel LED control library
+rpi_ws281x
+
+# Raspberry Pi GPIO control
+RPi.GPIO
